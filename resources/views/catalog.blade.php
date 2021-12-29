@@ -1,5 +1,9 @@
 @extends('master.main')
 
+@section('title')
+    Catalog
+@endsection
+
 @section('content')
 
     <div class="blog-wrapper section-padding-100-0 clearfix">
@@ -11,7 +15,7 @@
                         <div class="single-blog-thumbnail">
                             <center>
                                 <figure class="figure">
-                                    <img src="img/hairstyles-img/img1.jpeg" alt="" style="width: 200px" >
+                                    <img src="img/hairstyles-img/img1.jpeg" alt="" style="width: 200px">
                                     <figcaption class="figure-caption text-center">Kinky Twists</figcaption>
                                 </figure>
                             </center>
@@ -23,7 +27,7 @@
                         <div class="single-blog-thumbnail">
                             <center>
                                 <figure class="figure">
-                                    <img src="img/hairstyles-img/img2.jpeg" alt="" style="width: 200px" >
+                                    <img src="img/hairstyles-img/img2.jpeg" alt="" style="width: 200px">
                                     <figcaption class="figure-caption text-center">Cornrow</figcaption>
                                 </figure>
                             </center>
@@ -35,7 +39,7 @@
                         <div class="single-blog-thumbnail">
                             <center>
                                 <figure class="figure">
-                                    <img src="img/hairstyles-img/img3.jpeg" alt="" style="width: 200px" >
+                                    <img src="img/hairstyles-img/img3.jpeg" alt="" style="width: 200px">
                                     <figcaption class="figure-caption text-center">Kinky Twists</figcaption>
                                 </figure>
                             </center>

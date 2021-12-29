@@ -8,4 +8,5 @@
                 aria-hidden="true"></i></a> --}}
         <a href="#" data-toggle="tooltip" data-placement="bottom" title="Behance"><i class="fa fa-instagram"
                 aria-hidden="true"></i></a>
+    </div>
 </div>
